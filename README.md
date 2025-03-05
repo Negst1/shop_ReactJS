@@ -63,11 +63,4 @@ npm start
 
 2. Открыть веб-браузер и перейти по адресу: http://localhost:3000
 
-## Внесение вклада
-
-1. Форкнуть проект
-2. Создать новую ветку: `git checkout -b feature/new-feature`
-3. Зафиксировать изменения: `git commit -am 'Add new feature'`
-4. Запушить изменения в ветку: `git push origin feature/new-feature`
-5. Создать новый pull request
 
